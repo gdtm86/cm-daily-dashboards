@@ -12,11 +12,13 @@ following link [Cloudera Manager Charting Time-Series data](http://www.cloudera.
 To learn more about how to interpret the charts and various metrics in the
 charts, please visit [Cloudera Manager Metrics](http://www.cloudera.com/content/www/en-us/documentation/enterprise/latest/topics/cm_metrics.html "Cloudera Manager Metrics").
 
+
 Based on our experience at several of our large customers, most popular charts
 are placed into the following main dashboards.
 
 1. Daily-Cluster-Health-Dashboard
 2. Daily-Services-Dashboard
+3. OS-Monitoring-Dashboard
 
 ### Daily-Cluster-Health-Dashboard
 
@@ -39,6 +41,15 @@ tsqueries for the below charts are [here](daily-services-dashboard.md).
 ![2](./daily-services-dashboard/Daily-Services-Dashboard-2.jpg "Set 2")
 ![3](./daily-services-dashboard/Daily-Services-Dashboard-3.jpg "Set 3")
 
+### OS-Monitoring-Dashboard
+
+Dashboard consists of the following charts.
+
+tsqueries for the below charts are [here](os-monitoring-dashboard.md)
+
+![0](./os-monitoring-dashboard/OS-Monitoring-Dashboard-0.jpg "Set 0")
+![1](./os-monitoring-dashboard/OS-Monitoring-Dashboard-1.jpg "Set 1")
+
 ### Additional Notes
 
 [tsquery Language ](http://www.cloudera.com/content/www/en-us/documentation/enterprise/latest/topics/cm_dg_tsquery.html)
@@ -55,3 +66,5 @@ your cluster and create dashboards to monitor metrics that can help you
 proactively monitor to prevent these common issues.
 
 TL;DR - Add your personal touch to these dashboards
+
+***To-Do: Add documentation to export/import the dashboards into a user's cluster.***
