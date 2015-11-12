@@ -22,6 +22,8 @@ are placed into the following main dashboards.
 
 Dashboard consists of the following charts.
 
+tsqueries for the below charts is [here](daily-cluster-health-dashboard.md).
+
 ![0](./daily-cluster-health-dashboard/Daily-Cluster-Health-Dashboard-0.jpg "Set 0")
 ![1](./daily-cluster-health-dashboard/Daily-Cluster-Health-Dashboard-1.jpg "Set 1")
 ![2](./daily-cluster-health-dashboard/Daily-Cluster-Health-Dashboard-2.jpg "Set 2")
@@ -29,6 +31,8 @@ Dashboard consists of the following charts.
 ### Daily-Services-Dashboard
 
 Dashboard consists of the following charts.
+
+tsqueries for the below charts is [here](daily-services-dashboard.md).
 
 ![0](./daily-services-dashboard/Daily-Services-Dashboard-0.jpg "Set 0")
 ![1](./daily-services-dashboard/Daily-Services-Dashboard-1.jpg "Set 1")
