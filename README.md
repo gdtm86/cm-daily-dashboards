@@ -22,7 +22,7 @@ are placed into the following main dashboards.
 
 Dashboard consists of the following charts.
 
-tsqueries for the below charts is [here](daily-cluster-health-dashboard.md).
+tsqueries for the below charts are [here](daily-cluster-health-dashboard.md).
 
 ![0](./daily-cluster-health-dashboard/Daily-Cluster-Health-Dashboard-0.jpg "Set 0")
 ![1](./daily-cluster-health-dashboard/Daily-Cluster-Health-Dashboard-1.jpg "Set 1")
@@ -32,7 +32,7 @@ tsqueries for the below charts is [here](daily-cluster-health-dashboard.md).
 
 Dashboard consists of the following charts.
 
-tsqueries for the below charts is [here](daily-services-dashboard.md).
+tsqueries for the below charts are [here](daily-services-dashboard.md).
 
 ![0](./daily-services-dashboard/Daily-Services-Dashboard-0.jpg "Set 0")
 ![1](./daily-services-dashboard/Daily-Services-Dashboard-1.jpg "Set 1")
